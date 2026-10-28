@@ -6,3 +6,4 @@ Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 - ???
 - ???
+ameni
